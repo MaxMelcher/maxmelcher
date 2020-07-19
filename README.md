@@ -2,7 +2,7 @@
 
 I work as a Cloud Solution Architect at [Microsoft](https://microsoft.com) in Germany - and I focus on all things on Azure.
 
-- 🔭 I’m currently working on: Enterprise Landing Zones, Governance, Cost Management for one large enterprise in Germany
+- 🔭 I’m currently working on: Enterprise Landing Zones, Governance, Cost Management, Kubernetes, Azure Networking for one large enterprise in Germany
 - 🌱 I’m currently learning: Certified Kubernetes Administration (CKA)
 - 👯 I’m looking to collaborate on my side project: [Azure DevOps Wiki PDF Export](https://github.com/MaxMelcher/AzureDevOps.WikiPDFExport), a few issues are up for grap.
 - 💬 Ask me about: Anything Azure related
