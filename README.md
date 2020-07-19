@@ -1,6 +1,6 @@
 ### Hello - I am Max, nice to meet you!
 
-I work as a Cloud Solution Architect at [Microsoft](https://microsoft.com) in Germany - and I focus on all things on Azure.
+I work as a Cloud Solution Architect at [Microsoft](https://microsoft.com) in Germany - and I focus on all things that run on Azure.
 
 - 🔭 I’m currently working on: Enterprise Landing Zones, Governance, Cost Management, Kubernetes, Azure Networking for one large enterprise in Germany
 - 🌱 I’m currently learning: Certified Kubernetes Administration (CKA)
