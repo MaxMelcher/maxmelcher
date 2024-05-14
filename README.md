@@ -7,7 +7,6 @@ I work as a Cloud Solution Architect at [Microsoft](https://microsoft.com) in Ge
 - 👯 I’m looking to collaborate on my side project: [Azure DevOps Wiki PDF Export](https://github.com/MaxMelcher/AzureDevOps.WikiPDFExport), a few issues are up for grab.
 - 💬 Ask me about: Anything #Azure related
 - 📫 How to reach me: [@maxmelcher](https://twitter.com/maxmelcher) on twitter or [LinkedIn](https://www.linkedin.com/in/maxmelcher/).
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am addicted to clouds even in my personal live, I am a vivid [paraglider/hangglider](https://melcher.dev/2015/10/off-topic-paragliding-performance-training-in-oludeniz-turkey-mount-babadag/).
 
 ## Latest Blog Posts on [melcher.dev](https://melcher.dev)
